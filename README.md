@@ -8,6 +8,7 @@ For this project I defined the methodology, coordinated the 11 human participant
 Synthesised results into a written report and presentation, summarising methodology, findings and governance recommendations.
 
 Metric Definition:
+
 Groups where scored on the following key metrics:
 
 Originality: Assessed the degree to which a response presented novel or non-generic reasoning.
