@@ -1,25 +1,16 @@
 # Quantitative-and-Qualitative-Analysis-----LLMs-Comparison
 
-# Title: “Artificial Analysis: The Evaluation of AI Capabilities vs. Human Decision-Making in Business Think Tanks.” 
-
-# Overview:
-I designed and led a mixed-method research study comparing outputs from 11 human participants against four large language models (ChatGPT, Gemini, Perplexity, Claude) across three business scenarios and three prompt variants. 
+# Project Background
+Designed and led a mixed-method research study comparing outputs from 11 human participants against four large language models (ChatGPT, Gemini, Perplexity, Claude) across three business scenarios and three prompt variants. 
 For this project I defined the methodology, coordinated the 11 human participants across three scenarios, and managed the project to a fixed academic deadline; translated findings into a governance framework with direct implications for how businesses deploy AI tools.
 Synthesised results into a written report and presentation, summarising methodology, findings and governance recommendations.
 
-# Skills Used:
-Applied statistical analysis techniques to test for anchoring bias across model outputs.
-\Used structured qualitative coding to compare AI and human reasoning patterns.
-\Created python code to visualise key metrics used in analysis.
- 
-# Metric Definition:
-
 Groups where scored on the following key metrics:
 
-Originality: Assessed the degree to which a response presented novel or non-generic reasoning.
-Usefulness: Evaluated the practical applicability of the response to the business scenario.
-Divergence: Measured the variation in reasoning produced by a single LLM when presented with three differently framed variants of the same prompt. The first response to variant A was treated as the baseline.
-Convergence: Measured the degree to which different LLM models arrived at similar conclusions when responding to the same prompt variant. 
+* Originality: Assessed the degree to which a response presented novel or non-generic reasoning.
+* Usefulness: Evaluated the practical applicability of the response to the business scenario.
+* Divergence: Measured the variation in reasoning produced by a single LLM when presented with three differently framed variants of the same prompt. The first response to variant A was treated as the baseline.
+* Convergence: Measured the degree to which different LLM models arrived at similar conclusions when responding to the same prompt variant. 
 
 # Key Findings:
 Response Alignment with Human Outputs:
