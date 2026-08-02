@@ -34,7 +34,7 @@ No AI group achieved a mean score above 2.5 out of 3 on either originality or us
 * Organizations should match specific LLM performance profiles to task demands. Models demonstrating high consistency should be reserved for bounded verification, while those exhibiting higher variance like should be applied to exploratory phases of research.
 
 # List on Content:
-- [Research Manuscript]([https://link.com](https://github.com/killianglavo-coder/Quantitative-and-Qualitative-Analysis-----LLMs-Comparison/blob/main/Research%20Manuscript.docx))
+- k [title]([https://link.com](https://github.com/killianglavo-coder/Quantitative-and-Qualitative-Analysis-----LLMs-Comparison/blob/main/Research%20Manuscript.docx))
 - [Response Group](https://github.com/killianglavo-coder/Quantitative-and-Qualitative-Analysis-----LLMs-Comparison/blob/main/Response%20Group.xlsx)
 - [Project Plot Code](https://github.com/killianglavo-coder/Quantitative-and-Qualitative-Analysis-----LLMs-Comparison/blob/main/Project%20Plot%20Code.ipynb)
 - [LLM Comparison Tracker(Main Database for Project)](https://github.com/killianglavo-coder/Quantitative-and-Qualitative-Analysis-----LLMs-Comparison/blob/main/LLM_Comparison_Tracker.xlsx)
