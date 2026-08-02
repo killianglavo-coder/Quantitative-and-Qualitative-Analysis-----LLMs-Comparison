@@ -1,5 +1,11 @@
 # Quantitative-and-Qualitative-Analysis-----LLMs-Comparison
 
+# List on Content:
+- [Research Manuscript](https://github.com/killianglavo-coder/Quantitative-and-Qualitative-Analysis-----LLMs-Comparison/blob/main/Research%20Manuscript.docx)
+- [Response Group](https://github.com/killianglavo-coder/Quantitative-and-Qualitative-Analysis-----LLMs-Comparison/blob/main/Response%20Group.xlsx)
+- [Project Plot Code](https://github.com/killianglavo-coder/Quantitative-and-Qualitative-Analysis-----LLMs-Comparison/blob/main/Project%20Plot%20Code.ipynb)
+- [LLM Comparison Tracker(Main Database for Project)](https://github.com/killianglavo-coder/Quantitative-and-Qualitative-Analysis-----LLMs-Comparison/blob/main/LLM_Comparison_Tracker.xlsx)
+
 # Project Background
 Designed and led a mixed-method research study comparing outputs from 11 human participants (Response Group) against four large language models (ChatGPT, Gemini, Perplexity, Claude) across three business scenarios and three prompt variants. 
 For this project I defined the methodology, coordinated the 11 human participants across three scenarios, and managed the project to a fixed academic deadline; translated findings into a governance framework with direct implications for how businesses deploy AI tools.
@@ -32,9 +38,3 @@ No AI group achieved a mean score above 2.5 out of 3 on either originality or us
 * Organizations must avoid reliance on a single model architecture. A multi-model ensemble is recommended to preserve analytical diversity. 
 * Prompt design should be transited from improvised individual practice to a governed organizational protocol.
 * Organizations should match specific LLM performance profiles to task demands. Models demonstrating high consistency should be reserved for bounded verification, while those exhibiting higher variance like should be applied to exploratory phases of research.
-
-# List on Content:
-- [Research Manuscript](https://github.com/killianglavo-coder/Quantitative-and-Qualitative-Analysis-----LLMs-Comparison/blob/main/Research%20Manuscript.docx)
-- [Response Group](https://github.com/killianglavo-coder/Quantitative-and-Qualitative-Analysis-----LLMs-Comparison/blob/main/Response%20Group.xlsx)
-- [Project Plot Code](https://github.com/killianglavo-coder/Quantitative-and-Qualitative-Analysis-----LLMs-Comparison/blob/main/Project%20Plot%20Code.ipynb)
-- [LLM Comparison Tracker(Main Database for Project)](https://github.com/killianglavo-coder/Quantitative-and-Qualitative-Analysis-----LLMs-Comparison/blob/main/LLM_Comparison_Tracker.xlsx)
