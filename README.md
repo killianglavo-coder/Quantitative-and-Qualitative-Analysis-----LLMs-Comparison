@@ -1,13 +1,17 @@
 # Quantitative-and-Qualitative-Analysis-----LLMs-Comparison
 
-##Title: “Artificial Analysis: The Evaluation of AI Capabilities vs. Human Decision-Making in Business Think Tanks.” 
+# Title: “Artificial Analysis: The Evaluation of AI Capabilities vs. Human Decision-Making in Business Think Tanks.” 
 
-Overview:
+# Overview:
 I designed and led a mixed-method research study comparing outputs from 11 human participants against four large language models (ChatGPT, Gemini, Perplexity, Claude) across three business scenarios and three prompt variants. 
 For this project I defined the methodology, coordinated the 11 human participants across three scenarios, and managed the project to a fixed academic deadline; translated findings into a governance framework with direct implications for how businesses deploy AI tools.
 Synthesised results into a written report and presentation, summarising methodology, findings and governance recommendations.
 
-Metric Definition:
+# Skills Used:
+Applied statistical analysis techniques in Excel to test for anchoring bias across model outputs.
+Used structured qualitative coding to compare AI and human reasoning patterns.
+ 
+# Metric Definition:
 
 Groups where scored on the following key metrics:
 
@@ -16,7 +20,7 @@ Usefulness: Evaluated the practical applicability of the response to the busines
 Divergence: Measured the variation in reasoning produced by a single LLM when presented with three differently framed variants of the same prompt. The first response to variant A was treated as the baseline.
 Convergence: Measured the degree to which different LLM models arrived at similar conclusions when responding to the same prompt variant. 
 
-Key Findings:
+# Key Findings:
 Response Alignment with Human Outputs:
 Human respondents distribution covered multiple options with no clear majority, AI models anchored on one or two answers with limited variation.
 
@@ -32,7 +36,7 @@ All four models showed at least some variation in scored performance between Var
 Comparative Performance:
 No AI group achieved a mean score above 2.5 out of 3 on either originality or usefulness. 
 
-Recommendations: 
+# Recommendations: 
 Practical Implications of AI Integration for Decision-Making:
 Organizations should implement a tiered framework. This involves delegating bounded, computational tasks (e.g., data synthesis, scenario framing) to LLMs while prioritizing human oversight for high-level heuristic reasoning and ethical valuation.
 Organizations must avoid reliance on a single model architecture. A multi-model ensemble is recommended to preserve analytical diversity. 
