@@ -8,8 +8,11 @@ For this project I defined the methodology, coordinated the 11 human participant
 Synthesised results into a written report and presentation, summarising methodology, findings and governance recommendations.
 
 # Skills Used:
-Applied statistical analysis techniques in Excel to test for anchoring bias across model outputs.
+Applied statistical analysis techniques to test for anchoring bias across model outputs.
+
 Used structured qualitative coding to compare AI and human reasoning patterns.
+
+Created python code to visualise key metrics used in analysis.
  
 # Metric Definition:
 
