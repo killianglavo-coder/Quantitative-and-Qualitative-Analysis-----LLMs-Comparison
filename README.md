@@ -1,6 +1,6 @@
 # Quantitative-and-Qualitative-Analysis-----LLMs-Comparison
 
-Title: “Artificial Analysis: The Evaluation of AI Capabilities vs. Human Decision-Making in Business Think Tanks.” 
+##Title: “Artificial Analysis: The Evaluation of AI Capabilities vs. Human Decision-Making in Business Think Tanks.” 
 
 Overview:
 I designed and led a mixed-method research study comparing outputs from 11 human participants against four large language models (ChatGPT, Gemini, Perplexity, Claude) across three business scenarios and three prompt variants. 
