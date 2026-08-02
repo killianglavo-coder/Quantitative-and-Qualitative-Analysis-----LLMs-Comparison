@@ -9,10 +9,8 @@ Synthesised results into a written report and presentation, summarising methodol
 
 # Skills Used:
 Applied statistical analysis techniques to test for anchoring bias across model outputs.
-
-Used structured qualitative coding to compare AI and human reasoning patterns.
-
-Created python code to visualise key metrics used in analysis.
+\n Used structured qualitative coding to compare AI and human reasoning patterns.
+\n Created python code to visualise key metrics used in analysis.
  
 # Metric Definition:
 
